@@ -1,0 +1,31 @@
+fecha_vigencia,precio_ars,fuente,url_fuente
+2023-01-01,42,registro-historico (ods/xlsx),
+2023-03-01,58,prensa (Cronista 2022-12-29) + registro-historico,https://www.cronista.com/economia-politica/aumento-en-el-transporte-publico-cuanto-va-a-costar-el-subte-tren-y-colectivo-a-partir-de-enero-2023/
+2023-05-01,67,prensa (Cronista 2022-12-29) + registro-historico,https://www.cronista.com/economia-politica/aumento-en-el-transporte-publico-cuanto-va-a-costar-el-subte-tren-y-colectivo-a-partir-de-enero-2023/
+2023-06-01,74,prensa (Cronista 2022-12-29) + registro-historico,https://www.cronista.com/economia-politica/aumento-en-el-transporte-publico-cuanto-va-a-costar-el-subte-tren-y-colectivo-a-partir-de-enero-2023/
+2023-09-01,80,prensa (Infobae 2023-12-27) + registro-historico,https://www.infobae.com/sociedad/2023/12/27/aumenta-el-precio-del-viaje-en-subte-cuanto-costara-a-partir-de-enero/
+2024-01-01,110,prensa (Infobae 2023-12-27) Res. SBASE 27/2023,https://www.infobae.com/sociedad/2023/12/27/aumenta-el-precio-del-viaje-en-subte-cuanto-costara-a-partir-de-enero/
+2024-02-01,125,prensa (Infobae 2023-12-27 y 2024-05-01) + registro-historico,https://www.infobae.com/economia/2024/05/01/aumentan-subtes-y-trenes-hoy-cuanto-costara-el-boleto/
+2024-05-01,574,Observatorio de la Ciudad + registro-historico,https://observatoriociudad.org/informe-sobre-la-evoluci%C3%B3n-de-pasajeros-y-la-tarifa-del-subte-de-la-ciudad-de-buenos-aires-en-la-%C3%BAltima-d%C3%A9cada-2015-2025/
+2024-06-01,650,Observatorio de la Ciudad + registro-historico,https://observatoriociudad.org/informe-sobre-la-evoluci%C3%B3n-de-pasajeros-y-la-tarifa-del-subte-de-la-ciudad-de-buenos-aires-en-la-%C3%BAltima-d%C3%A9cada-2015-2025/
+2024-10-01,757,prensa (Infobae 2024-09-25) + registro-historico,https://www.infobae.com/economia/2024/09/25/vuelve-a-aumentar-el-subte-en-octubre-cuanto-va-a-valer-el-boleto-a-partir-del-martes/
+2025-03-01,832,Boletin Oficial CABA Res. SBASE 47/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-47-25-ANX-1.pdf
+2025-04-01,869,Boletin Oficial CABA Res. SBASE 55/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-55-25-ANX.pdf
+2025-05-01,919,Boletin Oficial CABA Res. SBASE 64/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-64-25-ANX.pdf
+2025-06-01,963,Boletin Oficial CABA Res. SBASE 70/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-70-25-ANX.pdf
+2025-07-01,996,Boletin Oficial CABA Res. SBASE 80/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-80-25-ANX.pdf
+2025-08-01,1031,Boletin Oficial CABA Res. SBASE 89/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-89-25-ANX.pdf
+2025-09-01,1071,Boletin Oficial CABA Res. SBASE 95/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-95-25-ANX.pdf
+2025-10-01,1112,Boletin Oficial CABA Res. SBASE 99/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-99-25-ANX.pdf
+2025-11-01,1157,Boletin Oficial CABA Res. SBASE 108/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-108-25-ANX.pdf
+2025-12-01,1206,Boletin Oficial CABA Res. SBASE 120/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-120-25-ANX.pdf
+2026-01-01,1260,Boletin Oficial CABA Res. SBASE 134/2025,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-134-25-ANX.pdf
+2026-02-01,1320,Boletin Oficial CABA Res. SBASE 143/2026,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-143-26-ANX.pdf
+2026-03-01,1363,Boletin Oficial CABA Res. SBASE 153/2026 (Tramo A),https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-153-26-ANX-1.pdf
+2026-04-01,1414,Boletin Oficial CABA Res. SBASE 153/2026 (Tramo B),https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-153-26-ANX-1.pdf
+2026-05-01,1490,Boletin Oficial CABA Res. SBASE 173/2026,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-173-26-ANX.pdf
+2026-06-01,1558,Boletin Oficial CABA Res. SBASE 185/2026,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-185-26-ANX.pdf
+2026-07-01,1621,Boletin Oficial CABA Res. SBASE 196/2026,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-196-26-ANX.pdf
+2026-08-01,1684,Boletin Oficial CABA Res. SBASE 206/2026,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-206-26-ANX.pdf
+2026-09-01,1753,Boletin Oficial CABA Res. SBASE 222/2026,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-222-26-ANX.pdf
+2026-10-01,1817,Boletin Oficial CABA Res. SBASE 238/2026,https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RESDIC-MJGGC-SBASE-238-26-ANX.pdf
