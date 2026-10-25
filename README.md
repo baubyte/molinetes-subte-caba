@@ -11,10 +11,11 @@ Todos los pasajeros del subte porteño, molinete por molinete y de 15 en 15 minu
 | `data/tarifas_sbase_2023_2026.csv` | Tarifa general por fecha de vigencia. La columna `url_fuente` apunta a la fuente de cada valor (Boletín Oficial de la Ciudad desde 2025-03; prensa y Observatorio de la Ciudad en 2023-2024). |
 | `data/lineas-de-subte.csv` | Trazado de las líneas en formato WKT, para calcular kilómetros de red y dibujar el mapa. |
 | `data/viajes_anual.csv` | Viajes anuales. |
+| `powerbi/*.parquet` | Las 10 tablas que genera la sección 4 del notebook (dimensiones, hechos y flags), listas para importar en Power BI sin tener que correr el ETL. Pesan ~2 MB en total. |
 
 ## Cómo se usa
 
-No hay que clonar nada a mano: la celda 3 del notebook descarga todo a una carpeta `datos_subte/` la primera vez (y la reutiliza después). Abrís el notebook, corrés las celdas en orden y listo. ☕ La primera ejecución completa tarda unos 5 minutos.
+No hay que clonar nada a mano: la celda 3 del notebook descarga todo a una carpeta `datos_subte/` la primera vez (y la reutiliza después). Abrís el notebook, corrés las celdas en orden y listo. ☕ La primera ejecución completa tarda entre 5 y 6 minutos (casi todo es el procesamiento de los 90 archivos; la descarga son ~275 MB y depende de tu conexión).
 
 Si preferís bajar los datos por tu cuenta, cada archivo se lee tal cual con `pandas` o con `gzip`; el formato interno es el mismo que publicó el portal.
 
