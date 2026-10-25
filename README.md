@@ -1,6 +1,6 @@
 # 🚇 molinetes-subte-caba
 
-Todos los pasajeros del subte porteño, molinete por molinete y de 15 en 15 minutos, desde **enero de 2023 hasta junio de 2026**. Es el material de entrada del notebook `EDA_ETL_Subte_v2.ipynb` (Metodología, Grupo 20) para que cualquiera pueda correrlo sin depender de nuestro Drive. 🙌
+Todos los pasajeros del subte porteño, molinete por molinete y de 15 en 15 minutos, desde **enero de 2023 hasta junio de 2026**. Es el material de entrada del notebook `EDA_ETL_Subte.ipynb` (Metodología, Grupo 20) para que cualquiera pueda correrlo sin depender de Drive. 🙌
 
 ## Qué hay adentro
 
